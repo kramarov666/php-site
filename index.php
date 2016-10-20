@@ -1,6 +1,7 @@
 <?php // vim: et
 // Get the modification date of this PHP file
-$timestamps = array(@getlastmod());
+//error!
+timestamps = array(@getlastmod());
 
 /*
    The date of prepend.inc represents the age of ALL
